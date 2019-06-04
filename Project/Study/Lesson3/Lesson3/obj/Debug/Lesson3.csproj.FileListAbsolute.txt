@@ -1,0 +1,9 @@
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\bin\Debug\Lesson3.exe.config
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\bin\Debug\Lesson3.exe
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\bin\Debug\Lesson3.pdb
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.Lesson3.resources
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.Properties.Resources.resources
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.csproj.GenerateResource.Cache
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.exe
+c:\users\1809106\documents\visual studio 2017\Projects\Lesson3\Lesson3\obj\Debug\Lesson3.pdb
