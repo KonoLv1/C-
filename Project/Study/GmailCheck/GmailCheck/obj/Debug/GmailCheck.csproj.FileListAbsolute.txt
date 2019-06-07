@@ -1,0 +1,10 @@
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.csprojResolveAssemblyReference.cache
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.GmailCheck.resources
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.Properties.Resources.resources
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.csproj.GenerateResource.Cache
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\bin\Debug\GmailCheck.exe.config
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\bin\Debug\GmailCheck.exe
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\bin\Debug\GmailCheck.pdb
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\bin\Debug\OpenPop.dll
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.exe
+c:\users\1809106\documents\visual studio 2017\Projects\GmailCheck\GmailCheck\obj\Debug\GmailCheck.pdb
