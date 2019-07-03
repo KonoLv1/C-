@@ -1,0 +1,9 @@
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\bin\Debug\金額計算.exe.config
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\bin\Debug\金額計算.exe
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\bin\Debug\金額計算.pdb
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.csprojResolveAssemblyReference.cache
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.Form1.resources
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.Properties.Resources.resources
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.csproj.GenerateResource.Cache
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.exe
+c:\users\1809106\documents\visual studio 2017\Projects\金額計算\金額計算\obj\Debug\金額計算.pdb
