@@ -1,0 +1,9 @@
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\bin\Debug\Study2.exe.config
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\bin\Debug\Study2.exe
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\bin\Debug\Study2.pdb
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.csprojResolveAssemblyReference.cache
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.Form1.resources
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.Properties.Resources.resources
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.csproj.GenerateResource.Cache
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.exe
+c:\users\1809106\documents\visual studio 2017\Projects\Study2\Study2\obj\Debug\Study2.pdb
