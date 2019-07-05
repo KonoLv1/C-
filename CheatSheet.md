@@ -27,3 +27,20 @@ button2.ForeColor = Color.Pink;
 
 * **button1** の背景色を青色に変更する
 * **button2** の文字色をピンク色に変更する
+
+## 数値が入力されたかどうかの判定を行う
+
+```
+int left;
+if(int.TryParse(textBox1.Text,out left)== true)
+{
+   left = int.Parse(textBox1.Text);
+}
+else
+{
+   // 数値以外が入力された場合の処理を記述
+}
+```
+
+* **left** に **textBox1** に入力された文字が代入可能かどうかの判定を行う
+* **left** に **textBox1** に入力された数値を **int型** で代入する
