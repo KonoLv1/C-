@@ -1,0 +1,8 @@
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\bin\Debug\Study1.exe.config
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\bin\Debug\Study1.exe
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\bin\Debug\Study1.pdb
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\obj\Debug\Study1.Form1.resources
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\obj\Debug\Study1.Properties.Resources.resources
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\obj\Debug\Study1.csproj.GenerateResource.Cache
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\obj\Debug\Study1.exe
+C:\Users\1809106\Documents\Visual Studio 2017\Projects\Study1\Study1\obj\Debug\Study1.pdb
