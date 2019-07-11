@@ -2,7 +2,7 @@
 
 ## メッセージボックスを表示する
 
-```
+```C#
 String mes;
 mes = textBox1.Text;
 MessageBox.Show(mes,"メッセージ",MessageBoxButtons.OK);
@@ -20,7 +20,7 @@ label1.Text = textBox1.Text;
 
 ## オブジェクトの色を変更する
 
-```
+```C#
 button1.BackColor = Color.Blue;
 button2.ForeColor = Color.Pink;
 ```
@@ -30,7 +30,7 @@ button2.ForeColor = Color.Pink;
 
 ## 数値が入力されたかどうかの判定を行う
 
-```
+```C#
 int left;
 if(int.TryParse(textBox1.Text,out left)== true)
 {
@@ -47,7 +47,7 @@ else
 
 ## タイマーを開始する
 
-```
+```C#
 timer1.Start();
 ```
 
@@ -56,7 +56,7 @@ timer1.Start();
 
 ## タイマーを停止する
 
-```
+```C#
 timer1.Stop();
 ```
 
