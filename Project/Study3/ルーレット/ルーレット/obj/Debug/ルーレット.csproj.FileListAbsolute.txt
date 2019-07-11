@@ -1,0 +1,9 @@
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.csprojResolveAssemblyReference.cache
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.Form1.resources
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.Properties.Resources.resources
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.csproj.GenerateResource.Cache
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\bin\Debug\ルーレット.exe.config
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\bin\Debug\ルーレット.exe
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\bin\Debug\ルーレット.pdb
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.exe
+c:\users\1809106\documents\visual studio 2017\Projects\ルーレット\ルーレット\obj\Debug\ルーレット.pdb
