@@ -18,6 +18,14 @@ label1.Text = textBox1.Text;
 
 * **label1** に **texBox1** に入力された文字を表示する
 
+## ラベルに変数を表示する
+
+```C#
+label1.Text = x.ToString(); 
+```
+
+* **label1** に **x** の中身を表示する
+
 ## オブジェクトの色を変更する
 
 ```C#
@@ -112,3 +120,87 @@ namespace moveCar.cs
 // pbx_car   ... 画像
 // timer1    ... タイマー
 ```
+
+## 入力された２つの数字の間の特定の値を表示するサンプルプログラム
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace 合計計算3
+{
+    public partial class Form1 : Form
+    {
+        int left, right;
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            Input_check();
+        }
+
+        void Input_check()
+        {
+            if (int.TryParse(textBox1.Text, out left) == true)
+            {
+                left = int.Parse(textBox1.Text);
+                if (int.TryParse(textBox2.Text, out right) == true)
+                {
+                    right = int.Parse(textBox2.Text);
+                    Calculation();
+                }
+                else
+                {
+                    MessageBox.Show("エラーです", "メッセージ", MessageBoxButtons.OK);
+                }
+            }
+            else
+            {
+                MessageBox.Show("エラーです", "メッセージ", MessageBoxButtons.OK);
+            }
+        }
+
+        void Calculation()
+        {
+            int i,sum,sum2,sum3,sum4;
+            sum = sum2 = sum3 = sum4 = 0;
+            i = left;
+            while (i <= right)
+            {
+                sum = sum + i;
+                if (i % 2 == 0)
+                {
+                    sum2 = sum2 + i;
+                }
+                else
+                {
+                    sum3 = sum3 + i;
+                }
+                if (i % 3 == 0)
+                {
+                    sum4 = sum4 + i;
+                }
+                i++;
+            }
+            label2.Text = "総計は、" + sum.ToString() + "です。" ;
+            label3.Text = "偶数計は、" + sum2.ToString() + "です。";
+            label4.Text = "奇数計は、" + sum3.ToString() + "です。";
+            label5.Text = "3の倍数計は、" + sum4.ToString() + "です。";
+           // label.Text = x.ToString(); 
+        }
+    }
+}
+
+
+
+
