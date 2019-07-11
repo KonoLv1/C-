@@ -61,3 +61,50 @@ timer1.Stop();
 ```
 
 * **timer1** を停止する
+
+# 画像を右に動かすサンプルプログラム
+
+```C#
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace moveCar.cs
+{
+    public partial class Form1 : Form
+    {
+        int flg = 0;    //走行状態判定用のフラグ
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btn_start_Click(object sender, EventArgs e)
+        {
+            if (flg == 0)
+            {
+                timer1.Start(); 
+                flg = 1;
+                btn_start.Text = "止まる"; //ボタンのメッセージを変更
+            }
+            else
+            {
+                timer1.Stop();
+                flg = 0;
+                btn_start.Text = "走る"; //ボタンのメッセージを変更
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            pbx_car.Left = pbx_car.Left + 1;    //画像を右へ移動
+        }
+    }
+}
+```
