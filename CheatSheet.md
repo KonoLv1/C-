@@ -123,6 +123,7 @@ namespace moveCar.cs
 
 ## 入力された２つの数字の間の特定の値を表示するサンプルプログラム
 
+```C#
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -200,7 +201,7 @@ namespace 合計計算3
         }
     }
 }
-
+```
 
 
 
