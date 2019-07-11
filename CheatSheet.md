@@ -197,7 +197,6 @@ namespace 合計計算3
             label3.Text = "偶数計は、" + sum2.ToString() + "です。";
             label4.Text = "奇数計は、" + sum3.ToString() + "です。";
             label5.Text = "3の倍数計は、" + sum4.ToString() + "です。";
-           // label.Text = x.ToString(); 
         }
     }
 }
