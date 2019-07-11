@@ -107,4 +107,8 @@ namespace moveCar.cs
         }
     }
 }
+
+// btn_start ... ボタン
+// pbx_car   ... 画像
+// timer1    ... タイマー
 ```
