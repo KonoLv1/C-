@@ -70,6 +70,15 @@ timer1.Stop();
 
 * **timer1** を停止する
 
+## ランダム要素を扱う
+
+```C#
+System.Random ransuu = new System.Random(1000);
+int x = ransuu.Next(10);
+```
+
+* **x** に０～９までの数字を代入する
+
 # 画像を右に動かすサンプルプログラム
 
 ```C#
